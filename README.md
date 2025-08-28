@@ -1,4 +1,10 @@
-## Chatterbox Podcast
+# AI-Podcast-Generator
+## VibeVoice Podcast
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/AI-Podcast-Generator/blob/main/ViveVoice_Colab.ipynb) <br>
+## Chatterbox Podcast
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/ChatterBox_Podcast.ipynb) <br>
+
 ## Credits
-- [VibeVoice](https://github.com/microsoft/VibeVoice)  
+- [VibeVoice](https://github.com/microsoft/VibeVoice)
+- [Chatbox](https://github.com/chatboxai/chatbox)
+
