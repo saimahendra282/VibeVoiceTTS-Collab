@@ -9,5 +9,5 @@
 [Notebooklm](https://notebooklm.google.com/notebook/)
 ## Credits
 - [VibeVoice](https://github.com/microsoft/VibeVoice)
-- [Chatbox](https://github.com/chatboxai/chatbox)
+- [chatterbox](https://github.com/resemble-ai/chatterbox)
 
